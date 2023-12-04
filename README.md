@@ -1,7 +1,6 @@
 
 #Roadmap Learning This mounth
 
-```
 | No. | Materi Belajar                 | Deskripsi                                          | Check |
 | --- | ------------------------------ | -------------------------------------------------- | ------ |
 | 1   | Pengenalan IoT dan ESP32       | Pengertian dasar Internet of Things (IoT) dan ESP32 |        |
@@ -17,5 +16,4 @@
 | 11  | Keamanan IoT                   | Aspek keamanan dalam pengembangan aplikasi IoT     |        |
 | 12  | Proyek Praktikum               | Menerapkan pengetahuan dalam proyek IoT sederhana   |        |
 | 13  | Troubleshooting                | Mengatasi masalah umum pada pengembangan ESP32     |        |
-```
 
