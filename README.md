@@ -17,3 +17,4 @@
 | 12  | Proyek Praktikum               | Menerapkan pengetahuan dalam proyek IoT sederhana   |        |
 | 13  | Troubleshooting                | Mengatasi masalah umum pada pengembangan ESP32     |        |
 
+\[ Z = \frac{{X - \mu}}{{\sigma}} \]
