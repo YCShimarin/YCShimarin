@@ -6,7 +6,7 @@ I'm currently studying Electrical Engineering with a focus on Telecommunications
 ## 🧰 Things I Mess Around With
 - 🧠 **Programming** – Mostly Python, sometimes JavaScript, occasionally yelling at C++
 - 🌐 **Web & UI/UX** – Love clean, functional interfaces (and yes, I do judge websites by their UI)
-- 📡 **Telecom Stuff** – Designed a 5GHz microstrip antenna once... and it *actually worked!*
+- 📡 **Telecom Stuff** – Designed a 2.4GHz microstrip antenna once... and it *actually worked!*
 - 📶 **Networking** – Learning packet sniffing, QoS analysis, and why the internet dies at random
 - 🔐 **Cybersecurity** – Slowly crawling into the world of CTFs, crypto puzzles, and pwn stuff
 
