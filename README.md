@@ -1,35 +1,32 @@
-# 👋 Hi there, I'm Muhammad Reval!
+# 👋 Hey there, I'm Muhammad Reval!
 
-## 🚀 About Me
-I'm an ambitious and passionate Electrical Engineering student majoring in Telecommunications and IT at Universitas Andalas. I love turning ideas into systems and solving real-world problems with creative and structured solutions.
+## 🌱 Just a Curious Learner
+I'm currently studying Electrical Engineering with a focus on Telecommunications and IT at Universitas Andalas. I might not be the smartest in the room, but I *do* enjoy figuring stuff out one step at a time. Whether it's networking, coding, or debugging random errors at 2AM—I’m always up for a little challenge.
 
-## 👨‍💻 Tech Focus
-- 🔌 **Networking**  
-  Exploring the OSI model, network design, and security layers.
-- 🧠 **Programming & Automation**  
-  From microcontrollers to full-stack development—always aiming to make systems that just *work*.
-- 📡 **Telecommunication Engineering**  
-  Designing microstrip antennas (5 GHz is my jam), simulating with CST Studio, and working with network QoS analysis.
-- 🌐 **Web Dev & UI/UX**  
-  Detail-oriented front-end tinkerer who loves clean interfaces and thoughtful UX.
+## 🧰 Things I Mess Around With
+- 🧠 **Programming** – Mostly Python, sometimes JavaScript, occasionally yelling at C++
+- 🌐 **Web & UI/UX** – Love clean, functional interfaces (and yes, I do judge websites by their UI)
+- 📡 **Telecom Stuff** – Designed a 5GHz microstrip antenna once... and it *actually worked!*
+- 📶 **Networking** – Learning packet sniffing, QoS analysis, and why the internet dies at random
+- 🔐 **Cybersecurity** – Slowly crawling into the world of CTFs, crypto puzzles, and pwn stuff
 
-## 🛠 Tools & Tech I Use
-- 🖥 Programming: Python, JavaScript, C/C++
-- 🌐 Web Dev: HTML, CSS, Tailwind, Firebase
-- 📶 Networking: Cisco Packet Tracer, Wireshark, Mikrotik
-- 📡 Simulation: CST Studio Suite, Proteus, Altium
-- 💻 CLI Tools: Firebase CLI, Wget, WSL
+## 🛠 I Use These (and Google the Errors)
+- Python, HTML/CSS, Tailwind  
+- Firebase (the easy way), Wget, WSL  
+- Cisco Packet Tracer, CST Studio, Altium  
+- VS Code, and my good old terminal  
 
-## 📈 Currently Working On
-- 🚧 Building a learning path for mastering computer networking.
-- 📊 Analyzing Wi-Fi QoS and interference for real-world deployments in hotels and hospitals.
-- 🧠 Diving deeper into cybersecurity and CTFs with a love for cryptography & pwn challenges.
+## 📘 Currently Learning
+- Network fundamentals and how it *actually* works  
+- CTF basics—crypto, pwn, and getting lost in the process  
+- How to stop procrastinating (still in beta)
 
-## 🧩 Fun Facts
-- I'm an **introvert** who thrives in deep work and quiet innovation.
-- I love watching **thought-provoking anime** like *Steins;Gate*, *Psycho-Pass*, and *Made in Abyss*.
-- A sucker for **detective mystery novels** and anything that tickles the brain.
-- I research a lot before I execute—*measure twice, cut once.*
+## 📺 Other Random Facts
+- Certified anime enjoyer (Steins;Gate, Psycho-Pass, Violet Evergarden, and more)
+- I like thinking before doing, and sometimes... overthinking 😅
+- Just a guy who likes learning cool stuff at his own pace
+- Not a genius, just someone who doesn’t stop trying
 
-## 📫 Let's Connect!
-Feel free to reach out via GitHub issues or discussions—always open to collaboration or nerdy chats 🤝  
+## 📫 Let’s Connect!
+I’m always open for a chill chat, small collabs, or just sharing random bugs that broke everything.  
+Let’s grow together 🚀
