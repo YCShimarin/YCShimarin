@@ -9,12 +9,15 @@ I'm currently studying Electrical Engineering with a focus on Telecommunications
 - 📡 **Telecom Stuff** – Designed a 2.4GHz microstrip antenna once... and it *actually worked!*
 - 📶 **Networking** – Learning packet sniffing, QoS analysis, and why the internet dies at random
 - 🔐 **Cybersecurity** – Slowly crawling into the world of CTFs, crypto puzzles, and pwn stuff
+- 🌐 **IoT & Embedded Systems** – I enjoy tinkering with sensors, microcontrollers, and trying not to burn my breadboard
+
 
 ## 🛠 I Use These (and Google the Errors)
-- Python, HTML/CSS, Tailwind  
-- Firebase (the easy way), Wget, WSL  
-- Cisco Packet Tracer, CST Studio, Altium  
-- VS Code, and my good old terminal  
+- Python, HTML/CSS, Tailwind, JS, SCSS and etc  
+- Firebase (the easy way), Powershell, WSL  
+- Cisco Packet Tracer, CST Studio, winbox  
+- VS Code, and my good old terminal
+- Arduino IDE 
 
 ## 📘 Currently Learning
 - Network fundamentals and how it *actually* works  
@@ -26,6 +29,8 @@ I'm currently studying Electrical Engineering with a focus on Telecommunications
 - I like thinking before doing, and sometimes... overthinking 😅
 - Just a guy who likes learning cool stuff at his own pace
 - Not a genius, just someone who doesn’t stop trying
+- **Still confused about how Git actually works** – I just commit and hope for the best 😅
+
 
 ## 📫 Let’s Connect!
 I’m always open for a chill chat, small collabs, or just sharing random bugs that broke everything.  
