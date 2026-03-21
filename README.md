@@ -1,6 +1,11 @@
-# People come, and people go. . .
-## I usually code using Colab coz it automatically backs up to my Drive, so I rarely contribute to GitHub. :)
+$$
+\int e^x \, dx = e^x + C
+$$
+
+*Growth without losing identity.*
 
 $$
-\displaystyle\sum_{k=2}^4 k^2=2^2 \times 3^2 \times 4^2 = 576
+P(t) = P_0 e^{rt}, \quad r > 0
 $$
+
+*Slow growth is still growth.*
